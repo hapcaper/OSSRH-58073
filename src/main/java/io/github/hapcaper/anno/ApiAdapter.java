@@ -1,7 +1,7 @@
-package com.ucar.anno;
+package io.github.hapcaper.anno;
 
-import com.ucar.module.NoParam;
-import com.ucar.module.NoResult;
+import io.github.hapcaper.module.NoParam;
+import io.github.hapcaper.module.NoResult;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

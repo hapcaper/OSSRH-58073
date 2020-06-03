@@ -1,4 +1,4 @@
-package com.ucar.module;
+package io.github.hapcaper.module;
 
 /**
  * Description:

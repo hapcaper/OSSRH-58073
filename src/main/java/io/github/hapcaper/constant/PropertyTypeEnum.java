@@ -1,4 +1,4 @@
-package com.ucar.constant;
+package io.github.hapcaper.constant;
 
 /**
  * Description:

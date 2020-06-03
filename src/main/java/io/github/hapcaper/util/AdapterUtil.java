@@ -1,8 +1,8 @@
-package com.ucar.util;
+package io.github.hapcaper.util;
 
-import com.ucar.anno.ApiAdapter;
-import com.ucar.module.NoParam;
-import com.ucar.module.NoResult;
+import io.github.hapcaper.anno.ApiAdapter;
+import io.github.hapcaper.module.NoParam;
+import io.github.hapcaper.module.NoResult;
 import org.jetbrains.annotations.NotNull;
 
 import java.lang.reflect.Field;

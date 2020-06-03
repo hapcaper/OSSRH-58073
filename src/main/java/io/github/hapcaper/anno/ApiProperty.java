@@ -1,6 +1,4 @@
-package com.ucar.anno;
-
-import com.ucar.constant.PropertyTypeEnum;
+package io.github.hapcaper.anno;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
